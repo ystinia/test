@@ -1,7 +1,7 @@
 ---
 slug: welcome
 title: Welcome
-authors: [ystionia, vixand]
+authors: [ystinia, vixand]
 tags: [docusaurus, peps]
 ---
 

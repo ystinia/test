@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: '',
+  tagline: 'OpenIPC is an open source operating system from the open community targeting for IP cameras with ARM and MIPS processors.',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -117,16 +117,20 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Open Collective',
+                href: 'https://opencollective.com/openipc',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'YouTube',
+                href: 'https://youtube.com/@openipc',
               },
               {
                 label: 'X',
-                href: 'https://x.com/docusaurus',
+                href: 'https://x.com/openipc',
+              },
+              {
+                label: 'Printables',
+                href: 'https://www.printables.com/search/models?q=tag:openipc',
               },
             ],
           },
@@ -139,7 +143,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/ystinia/test',
+                href: 'https://github.com/openipc',
               },
             ],
           },

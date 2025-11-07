@@ -7,14 +7,17 @@ tags: [community, openipc]
 
 ## Official announcement
 
-We are pleased to announce that our international [OpenIPC][openipc] project has joined the [Linux Foundation][linuxfoundation] as an Associate Member !
+We are pleased to announce that our international [OpenIPC](https://openipc.org) project has joined the [Linux Foundation](https://www.linuxfoundation.org) as an Associate Member !
 
 <!-- truncate -->
 
-Our congratulations to all participants and colleagues ! 🥂🍾🤝
+![Linux Foundation](./photo_2025-08-17_12-37-39.jpg)
 
 - https://www.linuxfoundation.org/about/members
+
+![Linux Foundation](./photo_2025-08-17_12-37-39.jpg)
+
 - https://landscape.linuxfoundation.org/?item=lf-members--associate--openipc-member
 
-[openipc]: https://openipc.org
-[linuxfoundation]: https://www.linuxfoundation.org
+Our congratulations to all participants and colleagues ! 🥂🍾🤝
+

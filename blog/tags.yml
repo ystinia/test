@@ -3,6 +3,11 @@ builder:
   permalink: /builder
   description: Builder tag description
 
+community:
+  label: community
+  permalink: /community
+  description: Community tag description
+
 coupler:
   label: coupler
   permalink: /coupler

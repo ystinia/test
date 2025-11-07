@@ -2,7 +2,7 @@
 slug: welcome
 title: Welcome
 authors: [ystinia, vixand]
-tags: [docusaurus, peps]
+tags: [docusaurus, community]
 ---
 
 [Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).

@@ -2,7 +2,7 @@
 slug: linuxfoundation-2025
 title: Associate Member of the Linux Foundation
 authors: [flyrouter, ystinia]
-tags: [official, announcement, community]
+tags: [community, openipc]
 ---
 
 ## Official announcement

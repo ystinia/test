@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '',
+  title: 'OpenIPC',
   tagline: 'OpenIPC is an open source operating system from the open community targeting for IP cameras with ARM and MIPS processors.',
   favicon: 'img/favicon.ico',
 
@@ -81,7 +81,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'OpenIPC',
+        title: ' ',
         logo: {
           alt: 'OpenIPC Logo',
           src: 'img/logo.svg',

@@ -1,19 +1,25 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+builder:
+  label: builder
+  permalink: /builder
+  description: Builder tag description
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+coupler:
+  label: coupler
+  permalink: /coupler
+  description: Coupler tag description
 
 docusaurus:
   label: Docusaurus
   permalink: /docusaurus
   description: Docusaurus tag description
 
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+majestic:
+  label: majestic
+  permalink: /majestic
+  description: Majestic tag description
+
+openipc:
+  label: openipc
+  permalink: /openipc
+  description: OpenIPC tag description
+

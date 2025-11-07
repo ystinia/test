@@ -4,44 +4,32 @@ flyrouter:
   title: OpenIPC founder and coordinator
   url: https://github.com/flyrouter
   image_url: https://github.com/flyrouter.png
+  page: true
+  socials:
+    youtube: openipc
 
 ystinia:
   name: Ystinia
   title: OpenIPC representative
   url: https://github.com/ystinia
   image_url: https://github.com/ystinia.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: openipc
+    linkedin: openipc
+    github: ystinia
+    newsletter: https://mediantrading.net
 
 vixand:
   name: Vixand
   title: OpenIPC integrator
   url: https://github.com/vixand
   image_url: https://github.com/vixand.png
-
-
-
-
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
-  socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    x: openipc
+    linkedin: openipc
+    github: vixand
+    newsletter: https://mediantrading.net

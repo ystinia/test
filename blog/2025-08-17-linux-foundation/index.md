@@ -9,6 +9,8 @@ tags: [official, announcement, community]
 
 We are pleased to announce that our international [OpenIPC][openipc] project has joined the [Linux Foundation][linuxfoundation] as an Associate Member !
 
+<!-- truncate -->
+
 Our congratulations to all participants and colleagues ! 🥂🍾🤝
 
 - https://www.linuxfoundation.org/about/members

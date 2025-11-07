@@ -1,7 +1,7 @@
 ---
 slug: mdx-blog-post
 title: MDX Blog Post
-authors: [slorber]
+authors: [vixand]
 tags: [docusaurus]
 ---
 
@@ -22,3 +22,86 @@ For example, use JSX to create an interactive button:
 ```
 
 <button onClick={() => alert('button clicked!')}>Click me!</button>
+
+
+## Examples
+
+### Notes
+
+Messages begin with three colons `:::` + an identifier and end with three colons `:::`, each on its own line.
+
+:::note
+Regular note, identifier **note**
+:::
+
+:::tip
+Hint-type note, identifier **tip**
+:::
+
+:::info
+Info to think about, identifier **info**
+:::
+
+:::warning
+Requires attention, identifier **warning**
+:::
+
+:::danger
+Error, all lost, identifier **danger**
+:::
+
+### Quotes
+
+Quotes begin with the '>' character, which begins a line.
+
+> This is a quote (line 1)
+> Continue quoting (line 2)
+
+### Details
+
+The `<details>` tag is used for the block, with a `<summary>` tag inside for the block title.
+Collapsible text supports MarkDown markup.
+
+<details>
+<summary>**Collapsible text title**</summary>
+
+For the title to work, the collapsible text itself must be separated from the title by a space, or
+the text following the title is a list.
+Draw a line and add a message after it.
+***
+:::note Warning
+This is an **added** message.
+:::
+</details>
+
+
+### MDX support
+
+Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).
+
+:::tip
+
+Use the power of React to create interactive blog posts.
+
+```js
+<button onClick={() => alert('button clicked!')}>Click me!</button>
+```
+
+<button onClick={() => alert('button clicked!')}>Click me!</button>
+
+:::
+
+### Long text
+
+This is also the summary of a very long blog post,
+
+Use a `<!--` `truncate` `-->` comment to limit blog post size in the list view.
+
+<!--truncate-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+
